@@ -1,0 +1,56 @@
+
+Alan Lai
+2/13/2020
+CIS18A Project Documentation
+
+This project is intended to be used by independent online content/media creators.
+
+The company name I would be using if this program becomes fully developed is Electric Fortress.
+
+Pseudocode:
+
+Begins with a menu that loops and drives the program. Will ask the user if they want to
+
+1. Make documentation
+2. Search for existing documentation
+3. Exit the program
+
+The user will select between options 1-3. Selecting anything else will result in an error and prompt the user to try again
+
+Selecting option 1 will present the user with a form of questions to answer in order to provide thurough documentation of the
+website they visited. Their responses will be recorded and written to a file created from the URL of the website
+
+once they're finished documenting the website info, the program returns to the main menu.
+
+Any documentation created can now be accessed by menu option 2, which allows the user to input a web address and be given 
+documentation on that same website by opening the file created from option 1.
+
+option 3 will simply break out of the program loop, terminating the program.
+
+Documentation:
+
+Who's it for?
+As mentioned this program is meant for independent online content/media creators. That is a pretty diverse group of people,
+ranging from independent game developers to independent video/music creators. What they all have in common is having to sometimes
+brave the internet in search of the resources they need, including the less safe parts of the internet.
+
+What's its purpose?
+The purpose of this program is to help people who create online content independently navigate public resources to help them
+quickly and safely find what they're looking for by essentially creating a platform where people like them can share their
+experiences while browsing on certain sites. By having everyone share their experiences, you can learn from each other the
+best ways to quickly, safely, and cheaply get things done.
+
+What is its business function?
+As said it would essentially be a place where you can search for online resources to help your independent development. But unlike
+a typical search engine the results you get will appear alongside reviews from real people, which can include tips for navigating
+websites and where to look if you're on a budget or concerned about your online safety.
+
+What is its technical function?
+Its technical function as of now is mostly reading and writing to custom files. Since there's no online component yet the raw
+concept on its own is simple and efficient. Ideally where to progress in the future is probably making a browser extention or less
+likely a mobile app. Ideally you wouldn't be working on your phone and you'd want to access this information on your workstation.
+
+
+
+
+
